@@ -1,5 +1,5 @@
-# Computer-Organization<br>
-Sophomore P0-P7
+# Computer-Organization
+Sophomore P0-P7<br>
 P0 Logisim
 P1 Verilog(ISE)
 P2 Mips(MARS)
