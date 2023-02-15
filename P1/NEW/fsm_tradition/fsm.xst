@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/1/Desktop/CO/P1/NEW/fsm_tradition/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/1/Desktop/CO/P1/NEW/fsm_tradition/xst"
+elaborate
+-ifn fsm.prj
+-ifmt mixed

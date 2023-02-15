@@ -1,0 +1,31 @@
+Release 14.7 - xst P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/1/Desktop/P1/BlockChecker/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/1/Desktop/P1/BlockChecker/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "BlockChecker.v" in library work
+ERROR:HDLCompilers:26 - "BlockChecker.v" line 1 expecting 'EOF', found '2'
+ERROR:HDLCompilers:26 - "BlockChecker.v" line 53 Macro reference `s2 is not defined
+Analysis of file <"BlockChecker.prj"> failed.
+--> 
+
+Total memory usage is 212584 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

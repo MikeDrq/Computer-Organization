@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/1/Desktop/P1/splitter/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/1/Desktop/P1/splitter/xst"
+elaborate
+-ifn splitter.prj
+-ifmt mixed

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/1/Desktop/P1/intcheck/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/1/Desktop/P1/intcheck/xst"
+elaborate
+-ifn intcheck.prj
+-ifmt mixed
